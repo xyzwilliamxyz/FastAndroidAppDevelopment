@@ -17,3 +17,9 @@ Library for loading images from lots of sources with ease.
 ### Sugar ORM
 
 Very simple library capable of mapping your entities with a few annotations and has minimal configuration to do.
+
+
+
+
+
+More libraries may be added to this POC...
